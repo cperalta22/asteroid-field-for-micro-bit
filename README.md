@@ -21,9 +21,9 @@ Currently is designed to work using external buttons for movement control and ex
 
 |File|Description|
 |----|-----------|
-|main.py|Mock game to test funtions |
 |asteroid_b.py | All tested and untested functions  |
 |characters_b.py |All tested and untested classes | 
+|other .py files |testing scripts |
 |README.md | dev notes  |
 
 ### Required circuit
