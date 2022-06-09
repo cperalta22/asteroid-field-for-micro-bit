@@ -19,9 +19,17 @@ Currently is designed to work using external buttons for movement control and ex
 
 #### /noExternal
 
-To be added .... Version to play without external buttons and leds, this version uses button A and B to navigate the ship, so to restart micro:bit must be reseted
+Version to play without external buttons and leds, this version uses button A and B to navigate the ship, so to restart micro:bit must be reseted
+
+|File|Description|
+|----|-----------|
+|main.py|Game "stable noExternal version"|
+|asteroid.py| Functions required for the game (tested)  |
+|characters.py|Classes for the game (tested)| 
 
 #### /testZone
+
+Development test and experimental funtions and classes
 
 |File|Description|
 |----|-----------|
