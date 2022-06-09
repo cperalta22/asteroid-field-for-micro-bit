@@ -4,7 +4,7 @@
 
 I'm working on this game to learn a bit about MicroPython and physical computing but mainly just for fun. 
 
-Currently is designed to work using external buttons for movement control and external leds to show remaining lifes; check below
+There are **2 versions of the game**; version in root directory requires an external breadboard and buttons (see below) and /noExternal version, that only requires a micro:bit
 
 ### Repo content
 
