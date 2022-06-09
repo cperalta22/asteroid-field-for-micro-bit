@@ -28,5 +28,5 @@ Currently is designed to work using external buttons for movement control and ex
 
 ### Required circuit
 
-[asteroid_game](https://user-images.githubusercontent.com/13229623/172957199-c2161cf9-a09a-4d09-9460-8ee5b6b2d0e6.png)
+![asteroid_game](https://user-images.githubusercontent.com/13229623/172957199-c2161cf9-a09a-4d09-9460-8ee5b6b2d0e6.png)
 
