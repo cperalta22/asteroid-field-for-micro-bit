@@ -13,7 +13,8 @@ Currently is designed to work using external buttons for movement control and ex
 |File|Description|
 |----|-----------|
 |main.py|Game "stable version"|
-|asteroid.py| Functions required for the game (tested)  | 
+|asteroid.py| Functions required for the game (tested)  |
+|characters.py|Classes for the game (tested)| 
 |README.md| This document |
 #### /testZone
 
@@ -21,7 +22,8 @@ Currently is designed to work using external buttons for movement control and ex
 |File|Description|
 |----|-----------|
 |main.py|Mock game to test funtions |
-|asteroid_b.py| All tested and untested functions  | 
+|asteroid_b.py | All tested and untested functions  |
+|characters_b.py |All tested and untested classes | 
 |README.md | dev notes  |
 
 ### Required circuit
