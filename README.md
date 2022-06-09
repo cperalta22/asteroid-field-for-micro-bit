@@ -16,8 +16,12 @@ Currently is designed to work using external buttons for movement control and ex
 |asteroid.py| Functions required for the game (tested)  |
 |characters.py|Classes for the game (tested)| 
 |README.md| This document |
-#### /testZone
 
+#### /noExternal
+
+To be added .... Version to play without external buttons and leds, this version uses button A and B to navigate the ship, so to restart micro:bit must be reseted
+
+#### /testZone
 
 |File|Description|
 |----|-----------|
@@ -27,6 +31,11 @@ Currently is designed to work using external buttons for movement control and ex
 |README.md | dev notes  |
 
 ### Required circuit
+
+For this part you will need an adaptor to access all GPIO pins to the micro:bit
+
+- If you are using micro:bit V2 you don't need an external buzzer
+- Buttons a and b are redirected to the breadboard altough that is completely optional
 
 ![asteroid_game](https://user-images.githubusercontent.com/13229623/172957446-c6aced09-d06d-4ead-952c-e9421b65b825.png)
 
