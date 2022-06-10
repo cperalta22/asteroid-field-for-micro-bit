@@ -30,7 +30,7 @@ Good luck pilot!
 
 ### Installation
 
-1. Clone this repo or copy all three python scripts of the desired version you want to play
+1. Clone [this](https://github.com/cperalta22/asteroid-field-for-micro-bit) repo or copy all three python scripts of the desired version you want to play
 2. Go to beta version of the official web [micropython editor](https://python.microbit.org/v/beta)
 3. Use the connect button to pair your micro:bit 
 4. Click into **Project** and upload all three files
