@@ -6,7 +6,7 @@ from asteriod import *
 from characters import *
 import random
 
-#start_msg()
+start_msg()
 sleep(300)
 startGame = True
 
