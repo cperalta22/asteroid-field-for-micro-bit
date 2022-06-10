@@ -8,6 +8,7 @@ There are **2 versions of the game**; version in root directory requires an exte
 
 ### Index
 - **Game Instructions
+- **Installation
 - **Files and directories of this repo
 - **Required hardware
 
@@ -26,6 +27,15 @@ You are piloting a space ship into a field of asteroids, your goal is to dodge a
 - you can start a new game pressing button A whenever a game is not in progress
 
 Good luck pilot!
+
+### Installation
+
+1 - clone this repo or copy all three python scripts of the desired version you want to play
+2 - go to beta version of the official web [micropython editor](https://python.microbit.org/v/beta)
+3 - use the connect button to pair your micro:bit 
+4 - click into **Project** and upload all three files
+5 - flash **Asteroid field** into your micro:bit
+6 - Don't forget to build the controller ! (look below this document for an schematic) 
 
 ### Files and directories of this repo
 
