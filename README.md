@@ -30,12 +30,12 @@ Good luck pilot!
 
 ### Installation
 
-1 - clone this repo or copy all three python scripts of the desired version you want to play
-2 - go to beta version of the official web [micropython editor](https://python.microbit.org/v/beta)
-3 - use the connect button to pair your micro:bit 
-4 - click into **Project** and upload all three files
-5 - flash **Asteroid field** into your micro:bit
-6 - Don't forget to build the controller ! (look below this document for an schematic) 
+1. Clone this repo or copy all three python scripts of the desired version you want to play
+2. Go to beta version of the official web [micropython editor](https://python.microbit.org/v/beta)
+3. Use the connect button to pair your micro:bit 
+4. Click into **Project** and upload all three files
+5. Flash **Asteroid field** into your micro:bit
+6. Don't forget to build the controller ! (look below this document for an schematic) 
 
 ### Files and directories of this repo
 
