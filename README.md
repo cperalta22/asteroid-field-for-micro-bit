@@ -12,6 +12,10 @@ There are **2 versions of the game**; version in root directory requires an exte
 - **Files and directories of this repo
 - **Required hardware
 
+![asteroid](https://user-images.githubusercontent.com/13229623/172977421-204c8971-15fc-4221-a61f-1b168b9bc4cd.jpg)
+
+
+
 ### Game Instructions
 
 You are piloting a space ship into a field of asteroids, your goal is to dodge all asteroids as your ship accelerates
