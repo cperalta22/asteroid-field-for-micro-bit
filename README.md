@@ -7,10 +7,10 @@ I'm working on this game to learn a bit about MicroPython and physical computing
 There are **2 versions of the game**; version in root directory requires an external breadboard and buttons (see below) and /noExternal version, that only requires a micro:bit
 
 ### Index
-- **Game Instructions
-- **Installation
-- **Files and directories of this repo
-- **Required hardware
+- **Game Instructions**
+- **Installation**
+- **Files and directories of this repo**
+- **Required hardware**
 
 ![asteroid](https://user-images.githubusercontent.com/13229623/172977421-204c8971-15fc-4221-a61f-1b168b9bc4cd.jpg)
 
