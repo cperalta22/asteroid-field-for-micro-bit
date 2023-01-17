@@ -93,3 +93,6 @@ For this part you will need an adaptor to access all GPIO pins to the micro:bit
 
 ![asteroid_game](https://user-images.githubusercontent.com/13229623/172957446-c6aced09-d06d-4ead-952c-e9421b65b825.png)
 
+
+Creado con amor por Carlos!
+
